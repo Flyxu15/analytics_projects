@@ -261,7 +261,7 @@ NETWORKDAYS(
 ## 📸 Dashboard Screenshots
 
 ### Home Dashboard - Executive Overview
-![Home Dashboard](screenshots/home_dashboard.png)
+![Home Dashboard](Screenshots/home_dashboard.png)
 *Executive KPI summary with 4,267 tickets, 36.82% service level, regional performance breakdown*
 
 ### Peak Hours Analysis
@@ -269,15 +269,15 @@ NETWORKDAYS(
 *Time-based patterns showing Tuesday peaks (1,097 tickets) and optimal staffing windows*
 
 ### Agent Performance Tracking
-![Agent Performance](screenshots/agent_performance.png)
+![Agent Performance](Screenshots/agents_SLA.png)
 *Individual agent metrics with 68.03% wait service level and performance rankings*
 
 ### Service Level Compliance
-![Service Level](screenshots/service_level.png)
+![Service Level](Screenshots/service_level.png)
 *SLA tracking across wait time and service time dimensions*
 
 ### Process Management
-![Processes](screenshots/processes.png)
+![Processes](Screenshots/processes.png)
 *75,946 processes across Claims, Complaints, Suggestions, Petitions, and Orders*
 
 ---
@@ -363,37 +363,11 @@ NETWORKDAYS(
 
 ---
 
-## 📁 Repository Structure
-
-```
-FlyAnalytics-PowerBI-Dashboard/
-├── README.md                          # This file
-├── Documentation/
-│   ├── Case-Study.pdf                 # Detailed project case study
-│   ├── Data-Model-Diagram.png         # Star schema visualization
-│   └── Technical-Specifications.md    # Detailed tech specs
-├── Screenshots/
-│   ├── home_dashboard.png
-│   ├── peak_hours.png
-│   ├── agent_performance.png
-│   ├── service_level.png
-│   └── processes.png
-├── DAX-Measures/
-│   ├── time-intelligence.dax          # Date calculations
-│   ├── service-level-metrics.dax      # SLA calculations
-│   └── agent-performance.dax          # Agent KPIs
-└── Power-Query/
-    ├── data-transformation.m          # ETL scripts
-    └── date-table-generation.m        # Calendar table logic
-```
-
----
 
 ## 🔗 Additional Resources
 
-- **Full Case Study (PDF):** [View detailed case study](Documentation/Case-Study.pdf)
-- **Data Model Diagram:** [View star schema](Documentation/Data-Model-Diagram.png)
-- **LinkedIn Profile:** [Connect with me](#)
+- **Full Case Study (PDF):** [View detailed case study](CaseStudy_Productivity.pdf)
+- **LinkedIn Profile:** [Connect with me](www.linkedin.com/in/jebarrioscornett)
 
 ---
 

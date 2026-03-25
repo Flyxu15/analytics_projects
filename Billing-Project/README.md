@@ -167,32 +167,16 @@ Before a single visual was built, the full 2025 billing dataset was audited and 
 ## 📸 Dashboard Screenshots
 
 ### Agent Summary Dashboard
-![Agent Summary](screenshots/agent_summary.png)
+![Agent Summary](Screenshots/agent_summary.png)
 *Full agent ranking by Total Salary, Transaction Cost, Difference, and Avg. Compliance % — overall 54.21% compliance with -9.65% period trend*
 
 ### Target Dashboard — Team 1 & Team 2
-![Target Dashboard](screenshots/target_dashboard.png)
+![Target Dashboard](Screenshots/target_dashboard.png)
 *Monthly point achievement vs. goals per agent, segmented by team — Team 2 showing -$50.9K point deficit*
 
 ### Agent Detail Dashboard
-![Agent Detail](screenshots/agent_detail.png)
+![Agent Detail](Screenshots/agent_detail.png)
 *Per-agent drill-down into Agile vs. Non-Agile transaction cost and unit points by process type*
-
----
-
-## 📁 Repository Structure
-
-```
-FlyAnalytics-Billing-Dashboard/
-├── README.md                        # This file
-├── DAX-Measures.md                  # Full DAX measure library with business context
-├── Documentation/
-│   └── Case-Study.pdf               # Full project case study
-└── Screenshots/
-    ├── agent_summary.png
-    ├── target_dashboard.png
-    └── agent_detail.png
-```
 
 ---
 

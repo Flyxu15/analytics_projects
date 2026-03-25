@@ -273,11 +273,11 @@ NETWORKDAYS(
 *Individual agent metrics with 68.03% wait service level and performance rankings*
 
 ### Service Level Compliance
-![Service Level](Screenshots/service_level.png)
+![Service Level](Screenshots/agent_SLA.png)
 *SLA tracking across wait time and service time dimensions*
 
 ### Process Management
-![Processes](Screenshots/processes.png)
+![Processes](Screenshots/process.png)
 *75,946 processes across Claims, Complaints, Suggestions, Petitions, and Orders*
 
 ---

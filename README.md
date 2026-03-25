@@ -120,8 +120,7 @@ analytics_projects/
 ├── Billing-Project/
 │   ├── README.md                      # Detailed billing project documentation
 │   ├── DAX-Measures.md                # Complete DAX measure library with context
-│   ├── Documentation/
-│   │   └── Billing_CaseStudy.pdf      # Full case study with screenshots
+│   ├── Billing_CaseStudy.pdf
 │   └── Screenshots/
 │       ├── agent_summary.png
 │       ├── target_dashboard.png
@@ -129,8 +128,7 @@ analytics_projects/
 └── Productivity-Project/
     ├── README.md                      # Detailed productivity project documentation
     ├── DAX-Measures.md                # Complete DAX measure library with context
-    ├── Documentation/
-    │   └── CaseStudy_Productivity.pdf # Full case study with screenshots
+    ├── CaseStudy_Productivity.pdf
     └── Screenshots/
         ├── home_dashboard.png
         ├── peak_hours.png
